@@ -43,9 +43,11 @@ Welcome to my GitHub repository, where I showcase my hands-on projects in cybers
 - Vulnerability scanning and security assessment
 
 ## Certifications
-- Google Cybersecurity Professional Certificate
-- Certified in Cybersecurity (ISC2)
-- SOC Analyst path from Let's Defend
+
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
+- [Certified in Cybersecurity (ISC2)](https://www.isc2.org/Certifications/CC)
+- [SOC Analyst path from Let's Defend](https://letsdefend.io/)
+
 
 ## Contact Information
 - **Email:** tharunnaiduvalleti@gmail.com
